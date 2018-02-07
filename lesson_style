@@ -11,15 +11,6 @@
 .loader {
 	background-color:#db4437;
 }
-
-/** Card view specific **/
-.viewCards .google-visualization-table-table {
-	background-color: transparent!important;
-}
-.viewCards .google-visualization-table-td {
-	border-color: #D8D8D8!important;
-}
-
 /*** Google visualization override ***/
 
 /* page number display */
